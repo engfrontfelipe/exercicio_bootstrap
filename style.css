@@ -1,0 +1,36 @@
+*
+.btn{
+    margin-top: 36px;
+    background-color: #a7a5a5;
+    border: 0.5px solid #fff;
+}
+#telefone{
+    margin-bottom: 16px;
+}
+body{
+    background-color: #ccc;
+
+}
+.form-control{
+    background-color: #a7a5a5;
+    border: 0.5px solid #fff;
+     
+}
+.form-control:focus{
+    background-color: #a7a5a5;
+    border: 0.5px solid #fff;
+    color: #e7e7e7;
+
+}
+.alert{
+    background-color: #a7a5a5;
+    color: #e7e7e7;
+    border: 0.5px solid #fff;
+    text-align: center;
+    font-size: 26px;
+}
+
+.form-check-input:checked {
+    background-color: #a7a5a5;
+    border-color: #a7a5a5;
+}
